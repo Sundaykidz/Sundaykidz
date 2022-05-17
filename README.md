@@ -1,4 +1,4 @@
-This is me
+HELLO WORLD!
 
 <!---
 Sundaykidz/Sundaykidz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
